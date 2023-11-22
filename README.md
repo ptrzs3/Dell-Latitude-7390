@@ -12,7 +12,9 @@ Hackintosh Ventura 13.4.1
 
 # Drivers
 ✅ USB and Type-C docking station
+
 ✅ HDMI
+
 ✅ Touchpad and Keyboard
 ✅ Speaker
 ✅ Wireless and RJ45
