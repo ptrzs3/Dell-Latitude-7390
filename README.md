@@ -11,17 +11,26 @@ Network card:  I219-LM
 Hackintosh Ventura 13.4.1
 
 # Drivers
+✅ Touchpad and Keyboard
+
 ✅ USB and Type-C docking station
+
+✅ Wireless and RJ45
+
+✅ 3.5mm Headphone (by Combojack)
+
+✅ Camera
+
+✅ Microphone
+
+✅ Bluetooth
+
+✅ Speaker
 
 ✅ HDMI
 
-✅ Touchpad and Keyboard
-✅ Speaker
-✅ Wireless and RJ45
-✅ Bluetooth
-✅ 3.5mm Headphone (by Combojack)
-✅ Shutdown, reboot, sleep and wake up
-✅ Camera
-✅ Microphone
 ✅ Screen brightness
+
 ✅ Battery
+
+✅ Shutdown, reboot, sleep and wake up
