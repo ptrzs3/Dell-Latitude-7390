@@ -1,4 +1,6 @@
+![Snipaste_2023-11-27_17-58-39](https://github.com/ptrzs3/Dell-Latitude-7390/assets/87363142/5e7b0787-535b-41ea-a8a3-38985fab81a2)
 # Dell-Latitude-7390
+
 CPU: i5-8350U
 
 Graphics: Intel UHD 620
